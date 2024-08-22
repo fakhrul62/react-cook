@@ -1,0 +1,8 @@
+.hero{
+    background-image: url('https://i.ibb.co/d2KPJJ2/pexels-elletakesphotos-2696064.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    border-radius: 16px;
+}
